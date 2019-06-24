@@ -1,0 +1,1 @@
+{"version":3,"sources":["I:\\ssmall\\my-app/src\\pages\\component\\form\\upload\\index.scss"],"names":[],"mappings":"AAAA,2BAEE,WAAY,CACZ,YAAa,CACb,yBAA0B,CAC1B,iBAAkB","file":"74.2815aabd.chunk.css","sourcesContent":["#x-upload {\r\n\t.avatar-uploader {\r\n\t\twidth: 200px;\r\n\t\theight: 200px;\r\n\t\tborder: 1px dotted #dfdfdf;\r\n\t\tborder-radius: 4px;\r\n\t}\r\n}"]}
